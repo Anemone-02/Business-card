@@ -1,0 +1,31 @@
+body {
+    margin: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.photo {
+    width: 150px;
+
+}
+
+.card {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    border-bottom: 10px solid purple;
+    background-color: #fda9c5;
+    color: #2b2839;
+
+
+
+}
+
+.border-purple {
+    border: 1px dotted purple;
+
+}
